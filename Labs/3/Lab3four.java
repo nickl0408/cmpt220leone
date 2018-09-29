@@ -1,3 +1,4 @@
+// JA: This is supposed to find the largest prime
 public class Lab3four {
 
 	public static void main(String[] args) {
