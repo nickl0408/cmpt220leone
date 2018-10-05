@@ -26,7 +26,7 @@ public class Lab4eight
             }
         }
         System.out.print("Ascending Order:");
-        for (int i = 0; i < n - 1; i++) 
+        for (int i = 0; i < n - 1; i++) // JA: Where is n defined?
         {
             System.out.print(a[i] + ",");
         }
