@@ -25,6 +25,7 @@ class Lab5six {
       averageRow(array);
     }
   
+	// JA: This method should also take the column for the average calculation
     public static void averageRow(int[][] array) {
         int sum= 0;
         int rowSize = array.length;

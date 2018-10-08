@@ -33,6 +33,7 @@ class Lab5three {
         }
     }
 
+	// JA: You have to sort both lists simultaneously
     public static void sortScore(int[] list)
     {
         for (int i = 0; i < list.length - 1; i++) 
