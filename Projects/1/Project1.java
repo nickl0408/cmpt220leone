@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+// JA: You should have some commments about the logic
 public class Project1 {
 
 	public static void main(String[] args) {
